@@ -1,3 +1,9 @@
-html{
-    color: lightpink;
+html {
+    background-color: rgb(255, 210, 229);
+}
+.heading-style {
+    color: rgb(212, 0, 88)
+}
+.list-color {
+    background-color: rgb(171, 87, 146)
 }

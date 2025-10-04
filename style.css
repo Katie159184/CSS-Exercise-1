@@ -2,7 +2,9 @@ html {
     background-color: rgb(255, 210, 229);
 }
 .heading-style {
-    color: rgb(212, 0, 88)
+    border-style:dotted;
+    border-color: black;
+    color: rgb(212, 0, 88);
 }
 .global {
     background-color: rgb(255, 238, 246)
